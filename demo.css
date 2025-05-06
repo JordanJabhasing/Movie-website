@@ -1,0 +1,26 @@
+h1{
+    color: rgb(218, 25, 25);
+}
+p{
+    color: azure;
+}
+H2{
+    border: 5px dotted rgb(43, 30, 30);
+    color: rgb(148, 221, 64);
+    width: 50%;
+}
+h3{
+    color: brown;
+}
+div{
+    border: 10px double rgb(25, 157, 180);
+}
+body{
+    background-image: url(Sunset\ city.jpg);
+}
+#nav{
+    height: 50px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+}
